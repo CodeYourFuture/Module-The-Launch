@@ -1,7 +1,3 @@
-# TEMPLATE repo for Modules
+# The Launch
 
-## Tasks
-- [ ] Set up example board 
-- [ ] Populate repo with coursework issues from Google Classroom Boilerplate
-- [ ] Add core Actions from org store https://docs.github.com/en/actions/creating-actions/sharing-actions-and-workflows-with-your-organization
-
+In this module you will join an Agile team to develop and deliver a full stack web application 
